@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+}
+
+h1{
+    margin-right: auto;    
+}
+
+.header{
+    padding: .7rem;
+    display: flex;
+    align-items: center;
+    background-color: royalblue;
+    color: white;
+}
+
+ul{
+    display: flex;
+    gap: 1rem;
+    padding-left: 0px;
+    list-style-type: none;
+}
